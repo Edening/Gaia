@@ -1,2 +1,3 @@
 # Gaia
-Earth with a collective mind fusing from thriving individuals.
+
+> World with a collective mind fusing from thriving individuals.

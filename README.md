@@ -1,3 +1,3 @@
 # Gaia
 
-> World with a collective mind fusing from thriving individuals.
+> Highly intelligent being of connected diverse individual beings

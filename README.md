@@ -77,6 +77,7 @@
 > :whale: “Growing is the best way for survival.”
 
 * [ZeroToOne](https://blakemasters.com/peter-thiels-cs183-startup)
+> A startup is the largest group of people you can convince of a plan to build a different future.
 
 * [Startup@Stanford](https://startup.stanford.edu/)
 

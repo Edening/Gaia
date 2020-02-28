@@ -44,13 +44,21 @@
 
 > :whale: “Web more Personal, Person more Connected.”
 
+* [Protocol Labs](https://protocol.ai/)
+
+* [iMemex](https://github.com/iMemex)
+
 ### The Digital Nomads
 
 > :whale: “Love(Living over Earth)”
 
+* [Working online and traveling the world](https://service.edening.net/ipfs/QmWZB7R5aMuM1jjAJsNS9xcnc7aoEKdT1xYx48zdj9hZjb/Working%20online%20and%20traveling%20the%20world%20-%20digital%20nomads%20_%20DW%20Documentary%20by%20DW%20Documentary)
+
 ### The Global Villages
 
 > :whale: “Local Living, Global Reach.”
+
+* [Gaia Modern Villages](https://github.com/Edening/GlobalVillages)
 
 ### iTrust
 
@@ -60,17 +68,31 @@
 
 > :whale: “Happiness is and ought to be the ultimate currency.”
 
+* [Happier](http://www.happier.tv/)
+
+* [SolveForHappy](https://service.edening.net/ipfs/QmTRzN7Pdiehd4wLnw4c5ANr9FUHbABHZjuHJn9E6pCz8E/1BH)
+
 ### Entrepreneurship
 
 > :whale: “Growing is the best way for survival.”
 
+* [ZeroToOne](https://blakemasters.com/peter-thiels-cs183-startup)
+
+* [Startup@Stanford](https://startup.stanford.edu/)
+
 ### The Practical Idealism
 
-> :whale: “Action and attitude are the only things that you have control over.”
+> :whale: “Be the change you want to see in the world.”
+
+* [Introduction](https://psychology.wikia.org/wiki/Practical_idealism)
 
 ### Biocentrism and Beyond
 
 > :whale: “We do not know, we cannot be sure, that the real world is good. But the world of a great story is somehow good, and we want to live there as often and as long as we can.”
+
+* [Introduction](https://www.britannica.com/topic/biocentrism)
+
+* [Advancement](https://biocentrismnews.com/)
 
 ### Taoism
 

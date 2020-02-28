@@ -32,6 +32,8 @@
 
 > :whale: “Forget not that the earth delights to feel your bare feet and the winds long to play with your hair.”
 
+* [JourneyAroundEarth](https://service.edening.net/ipfs/QmTRzN7Pdiehd4wLnw4c5ANr9FUHbABHZjuHJn9E6pCz8E/JourneyAroundEarth-Gaia-720.mp4)
+
 ### Virtureality
 
 > :whale: “Together, No Matter Where You Are.”

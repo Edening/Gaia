@@ -30,22 +30,44 @@
 
 ### The Mother Earth
 
+> :whale: “Forget not that the earth delights to feel your bare feet and the winds long to play with your hair.”
+
 ### Virtureality
+
+> :whale: “Together, No Matter Where You Are.”
 
 ### The Distributed Web
 
+> :whale: “Web more Personal, Person more Connected.”
+
 ### The Digital Nomads
+
+> :whale: “Love(Living over Earth)”
 
 ### The Global Villages
 
+> :whale: “Local Living, Global Reach.”
+
 ### iTrust
+
+> :whale: “Trust returns natural, forming a peer-to-peer dynamic network.”
 
 ### The Ultimate Currency
 
+> :whale: “Happiness is and ought to be the ultimate currency.”
+
 ### Entrepreneurship
+
+> :whale: “Growing is the best way for survival.”
 
 ### The Practical Idealism
 
+> :whale: “Action and attitude are the only things that you have control over.”
+
 ### Biocentrism and Beyond
 
+> :whale: “We do not know, we cannot be sure, that the real world is good. But the world of a great story is somehow good, and we want to live there as often and as long as we can.”
+
 ### Taoism
+
+> :whale: “天之道，利而不害；人之道，为而不争。”

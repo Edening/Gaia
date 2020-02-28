@@ -22,6 +22,12 @@
 
 ### Oneness
 
+> :whale: “Everyone is an entire world, yet no one could be a lonely island.”
+
+* [Lucy](https://service.edening.net/ipfs/QmTRzN7Pdiehd4wLnw4c5ANr9FUHbABHZjuHJn9E6pCz8E/Lucy-Oneness-720.mp4)
+* [Consciousness](https://service.edening.net/ipfs/QmTRzN7Pdiehd4wLnw4c5ANr9FUHbABHZjuHJn9E6pCz8E/Oneness-Gaia-720.mp4)
+* [One@Edening](https://one.edening.net/)
+
 ### The Mother Earth
 
 ### Virtureality

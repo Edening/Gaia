@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [Oneness](#oness)
+- [Oneness](#oneness)
 - [The Mother Earth](#the-mother-earth)
 - [Virtureality](#virtureality)
 - [The Distributed Web](#the-distributed-web)
